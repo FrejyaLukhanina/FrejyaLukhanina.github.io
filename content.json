@@ -8,11 +8,7 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULzexDsymvo01TYQtHhknNlLF5IgBUu6iVOspf",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL39hRKKU2CcDiTPdahNxlrW4JgpOM07YozIKA"
       ],
-      "tags": [
-        "festive street style",
-        "winter glow",
-        "warm elegance"
-      ],
+      "tags": ["festive street style", "winter glow", "warm elegance"],
       "description": ""
     },
     "1950s": {
@@ -23,11 +19,7 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULKgDKvBnlFhmwJX145S62EOPrNjAqyZps8zKu",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULc6wDLsP8bmiZsqElBtjo0kedA2Tg4aSnKNPv"
       ],
-      "tags": [
-        "vintage aesthetic",
-        "storytelling",
-        "bw"
-      ],
+      "tags": ["vintage aesthetic", "storytelling", "bw"],
       "description": ""
     },
     "Mystic Forestscene": {
@@ -37,11 +29,7 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL4PE5M6cQzLeKdUuymFaHkESACRq987opWiPw",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL11Et4sOJ5CKqHet24czU0DkxNRaonV6rLfEd"
       ],
-      "tags": [
-        "fantasy",
-        "storytelling",
-        "mystical"
-      ],
+      "tags": ["fantasy", "storytelling", "mystical"],
       "description": ""
     },
     "1950s in color": {
@@ -50,11 +38,27 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3huguiSU2CcDiTPdahNxlrW4JgpOM07YozIK",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3hlVe3wU2CcDiTPdahNxlrW4JgpOM07YozIK"
       ],
-      "tags": [
-        "vintage aesthetic",
-        "storytelling",
-        "colorful"
+      "tags": ["vintage aesthetic", "storytelling", "colorful"],
+      "description": ""
+    },
+    "Fantastic spring": {
+      "images": [
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCd5xTxnZBW9wlqdtVIRS4nTa8YFeP7KbME6Dfm",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdzGntN5PX6gYSqWn1xvAr72TfNwUcs0EZuGhJ",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdFM8e6iaylBpCx8uIjt1LnWSf6qPHRZO0vNzs",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdPXzuJc0R8WemhtjVCM19TBGyQAx4XH7Ncnof",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdedE3wD1vUt1KXCwZTFN8P3vugrp0hlY64jm2",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdZnzaikB2RUYMomibOVA158jz4sTnGKldhLrk",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdTs5llZAPWgd5xLXy8fKnzCH3e0kE7R9jhTla",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdPbDxye0R8WemhtjVCM19TBGyQAx4XH7Ncnof",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCd5kaelOBW9wlqdtVIRS4nTa8YFeP7KbME6Dfm",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdhuh2DIRWex7VQpSqYIAKL2XlicEP6w5GTf9F",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdhthKS9RWex7VQpSqYIAKL2XlicEP6w5GTf9F",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdzfjmYNPX6gYSqWn1xvAr72TfNwUcs0EZuGhJ",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdlkGhQtdgPWmEUG0Sovi6taxqrd5YwcnVApHz",
+        "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdTkdFj9APWgd5xLXy8fKnzCH3e0kE7R9jhTla"
       ],
+      "tags": ["spring", "elegance", "energetic"],
       "description": ""
     }
   },
