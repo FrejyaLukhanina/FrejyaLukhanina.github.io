@@ -8,7 +8,11 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULzexDsymvo01TYQtHhknNlLF5IgBUu6iVOspf",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL39hRKKU2CcDiTPdahNxlrW4JgpOM07YozIKA"
       ],
-      "tags": ["festive street style", "winter glow", "warm elegance"],
+      "tags": [
+        "festive street style",
+        "winter glow",
+        "warm elegance"
+      ],
       "description": ""
     },
     "1950s": {
@@ -19,7 +23,11 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULKgDKvBnlFhmwJX145S62EOPrNjAqyZps8zKu",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5ULc6wDLsP8bmiZsqElBtjo0kedA2Tg4aSnKNPv"
       ],
-      "tags": ["vintage aesthetic", "storytelling", "bw"],
+      "tags": [
+        "vintage aesthetic",
+        "storytelling",
+        "bw"
+      ],
       "description": ""
     },
     "Mystic Forestscene": {
@@ -29,7 +37,11 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL4PE5M6cQzLeKdUuymFaHkESACRq987opWiPw",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL11Et4sOJ5CKqHet24czU0DkxNRaonV6rLfEd"
       ],
-      "tags": ["fantasy", "storytelling", "mystical"],
+      "tags": [
+        "fantasy",
+        "storytelling",
+        "mystical"
+      ],
       "description": ""
     },
     "1950s in color": {
@@ -38,7 +50,11 @@
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3huguiSU2CcDiTPdahNxlrW4JgpOM07YozIK",
         "https://9x31pd43rr.ufs.sh/f/fcwoaezzJ5UL3hlVe3wU2CcDiTPdahNxlrW4JgpOM07YozIK"
       ],
-      "tags": ["vintage aesthetic", "storytelling", "colorful"],
+      "tags": [
+        "vintage aesthetic",
+        "storytelling",
+        "colorful"
+      ],
       "description": ""
     },
     "Fantastic spring": {
@@ -58,11 +74,13 @@
         "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdlkGhQtdgPWmEUG0Sovi6taxqrd5YwcnVApHz",
         "https://pnj6i4tj3g.ufs.sh/f/RiH3sMpSQNCdTkdFj9APWgd5xLXy8fKnzCH3e0kE7R9jhTla"
       ],
-      "tags": ["spring", "elegance", "energetic"],
+      "tags": [
+        "spring",
+        "elegance",
+        "energetic"
+      ],
       "description": ""
-    }
-  },
-      },
+    },
     "Vintage excursion": {
       "images": [
         "https://jsgfka3q0t.ufs.sh/f/W9qWQNuhKgPH09Cd4xTSRrZPk2szNiYOCwbQV6AUDIHGLfWt",
@@ -72,7 +90,11 @@
         "https://jsgfka3q0t.ufs.sh/f/W9qWQNuhKgPHXc4glhHeRpUBAaxMOS6ZQtIonb3fcw1Y9ghj",
         "https://jsgfka3q0t.ufs.sh/f/W9qWQNuhKgPH0KelaSTSRrZPk2szNiYOCwbQV6AUDIHGLfWt"
       ],
-      "tags": ["vintage", "vibrant", "elegant"],
+      "tags": [
+        "vintage",
+        "vibrant",
+        "elegant"
+      ],
       "description": ""
     }
   },
